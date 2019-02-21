@@ -1,0 +1,2 @@
+D:\Visual Studio Projects\Visual-Studio-Opdracht-TCR\Kaartspel\Kaartspel\Kaartspel\obj\Debug\Kaartspel.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Visual-Studio-Opdracht-TCR\Kaartspel\Kaartspel\Kaartspel\obj\Debug\Kaartspel.csproj.CoreCompileInputs.cache
