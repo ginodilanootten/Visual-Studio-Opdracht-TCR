@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\Dobbelsteen\V1\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Dobbelsteen\V1\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Dobbelsteen\V1\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.exe.config
+D:\Visual Studio Projects\Dobbelsteen\V1\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.exe
+D:\Visual Studio Projects\Dobbelsteen\V1\Dobbelsteen\Dobbelsteen\bin\Debug\Dobbelsteen.pdb
+D:\Visual Studio Projects\Dobbelsteen\V1\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.exe
+D:\Visual Studio Projects\Dobbelsteen\V1\Dobbelsteen\Dobbelsteen\obj\Debug\Dobbelsteen.pdb
